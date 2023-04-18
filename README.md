@@ -1,6 +1,6 @@
 # feri-praktikum
 
-To je projekt za učenje dela z gitom.
+To je projekt za učenje dela z gitom. cdcdcd
 
 ## Tekst
 To je primer navadnega teksta.
