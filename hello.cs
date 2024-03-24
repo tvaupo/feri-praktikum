@@ -7,6 +7,7 @@ namespace HelloWorldApp {
 	// Class declaration
 	class Geeks {
 		
+		protected string myvar;
 		// Main Method
 		static void Main(string[] args) {
 			
